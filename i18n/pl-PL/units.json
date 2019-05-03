@@ -11,6 +11,6 @@
     "unit.litres": "l",
     "unit.tonesPerHectare": "tony na hektar",
     "unit.none": " ",
-    "unit.mASL": "m n.p.m.",
-    "unit.NDVIvalue": "wartość NDVI"
+    "unit.mASL": "",
+    "unit.NDVIvalue": ""
 }
