@@ -1,8 +1,8 @@
 {
-    "unit.ha": "ha",
+    "unit.ha": "hectares",
     "unit.m2": "m<sup>2</sup>",
     "unit.percentage": "%",
-    "unit.plantsPerHectare": "plants/ha",
+    "unit.plantsPerHectare": "plants per ha",
     "unit.GAI": "GAI",
     "unit.kilogramsOfNitrogenPerHectare": "kg N/ha",
     "unit.litresPerHectare": "l/ha",
