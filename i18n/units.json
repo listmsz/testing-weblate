@@ -1,0 +1,16 @@
+{
+    "unit.ha": "ha",
+    "unit.m2": "m<sup>2</sup>",
+    "unit.percentage": "%",
+    "unit.plantsPerHectare": "plants/ha",
+    "unit.GAI": "GAI",
+    "unit.kilogramsOfNitrogenPerHectare": "kg N/ha",
+    "unit.litresPerHectare": "l/ha",
+    "unit.kilogramsPerHectare": "kg/ha",
+    "unit.kilograms": "kg",
+    "unit.litres": "l",
+    "unit.tonesPerHectare": "t/ha",
+    "unit.none": " ",
+    "unit.mASL": "mASL",
+    "unit.NDVIvalue": "NDVI value"
+}
